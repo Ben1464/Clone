@@ -28,7 +28,7 @@ table {
     border-color:none;
     border-bottom-style: outset;
     border-bottom-width: 10px;
-    border-bottom-color: red;
+    border-bottom-color: rgb(101, 24, 24);
     border-left-width: 8px;
     border-left-color:greenyellow;
     border-top-style: none;
@@ -62,7 +62,7 @@ text-align: center;
     border-color:red;
     border-top-style:none;
     border-bottom-style:outset;
-    border-left-color:  chartreuse;
+    border-left-color:  rgb(101, 182, 20);
     border-bottom-width: 8px;
     border-left-width: 6px;
     border-right-width: 0px;
