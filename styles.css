@@ -1,0 +1,133 @@
+/* id selector*/
+#para1 {
+font-size: 100%;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+}
+img {
+    padding-inline-start: 40%;
+    margin-bottom: 20px;
+}
+/*Elelement selector*/
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
+  h1{
+    color: chartreuse;
+    text-transform: uppercase;
+    border-radius: 28px;
+    text-align: center;
+    border-radius: 26px;
+    border-style: solid;
+    border-width: medium;
+    border-color:none;
+    border-bottom-style: outset;
+    border-bottom-width: 10px;
+    border-bottom-color: red;
+    border-left-width: 8px;
+    border-left-color:greenyellow;
+    border-top-style: none;
+    border-right-width: 0px;
+    padding: 5px;
+background-color: rgb(146, 170, 162);
+opacity: 0.8;
+  }
+  /*Group selector*/
+ h2,h3,h4,h5,h6{
+  border-radius: 24px;
+    border-style: solid;
+    border-width:medium;
+    border-color:red;
+    border-top-style:none;
+    border-bottom-style:outset;
+    border-left-color:greenyellow;
+    border-bottom-width: 8px;
+    border-left-width: 6px;
+    border-right-width: 0px;
+    padding: 5px;
+background-color: rgb(146, 170, 162);
+opacity: 0.8;
+text-align: center;
+ }
+  
+  h8,h9 {
+    border-radius: 24px;
+    border-style: solid;
+    border-width:medium;
+    border-color:red;
+    border-top-style:none;
+    border-bottom-style:outset;
+    border-left-color:  chartreuse;
+    border-bottom-width: 8px;
+    border-left-width: 6px;
+    border-right-width: 0px;
+    padding: 5px;
+background-color: rgb(146, 170, 162);
+opacity: 0.9;
+text-align: center;
+  }
+.Termicides{
+  text-align:center ;
+}
+.Rochicides{
+  text-align:center ;
+}
+footer{
+  text-align: center;
+  background-color: chartreuse;
+}
+input[type="reset"] {
+  padding: 5px 10px;
+  font-size: 8px;
+}
+input[type="submit"]{
+  padding: 5px 10px;
+  font-size: 8px;
+}
+a[href="https://www.greenlife.co.ke"] {
+  padding: 40%;
+}
+#in1{
+  text-align: center;
+  width: 1200px;
+  border-width: medium;
+  
+}
+#main{
+  padding-left: 20%;
+  max-width: 100%;
+  height: auto;
+}
+ul{
+  list-style-type: none;
+  margin: 5;
+  padding: 5;
+  overflow: hidden;
+  font-size: 100%;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+li  {
+  display: inline;
+  float: left;
+  margin: 5;
+  padding: 5;
+}
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 50px;
+  text-decoration: none;
+  
+  border-style: outset;
+}
+.flex-container  {
+  display: block;
+  margin: 10px;
+  padding: 8px;
+}
