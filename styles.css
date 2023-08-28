@@ -123,4 +123,7 @@ a[href="https://www.greenlife.co.ke"] {
   li{
     display: inline-block;
   }
- 
+  address{
+    text-align: center;
+    display: flexbox;
+  }
