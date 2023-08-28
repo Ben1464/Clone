@@ -103,26 +103,3 @@ a[href="https://www.greenlife.co.ke"] {
   max-width: 100%;
   height: auto;
 }
-ul{
-  list-style-type: none;
-  margin: 5;
-  padding: 5;
-  overflow: hidden;
-  font-size: 100%;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-li  {
-  display: block;
-  float: left;
-  margin: 5;
-  padding: 5;
-}
-li a {
-  display: inline;
-  color: black;
-  text-align: center;
-  padding: 14px 50px;
-  text-decoration: none;
-  
-  border-style: outset;
-}
