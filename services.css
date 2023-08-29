@@ -14,6 +14,26 @@ background-color: rgb(174, 209, 155);
 opacity: 0.8;
 text-align: center;
  } 
- ul{
-    display:inline-block
+ div{
+    list-style-type: none;
+    margin: 5;
+    padding: 5;
+    font-size: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display:contents;
  }
+ li a {
+    display: inline;
+    color: black;
+    text-align: center;
+    padding: 14px 120px;
+    text-decoration: none;
+    border-bottom: 0px;
+    border-top: 0px;
+    border-style: inset;
+    background-color: aquamarine;
+  }
+  li{
+    display: inline;
+  }
+ 
