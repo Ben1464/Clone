@@ -1,0 +1,16 @@
+h1{
+    border-radius: 24px;
+    border-style: solid;
+    border-width:medium;
+    border-color:red;
+    border-top-style:none;
+    border-bottom-style:outset;
+    border-left-color:greenyellow;
+    border-bottom-width: 8px;
+    border-left-width: 6px;
+    border-right-width: 0px;
+    padding: 5px;
+background-color: rgb(174, 209, 155);
+opacity: 0.8;
+text-align: center;
+}
