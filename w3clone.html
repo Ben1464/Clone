@@ -81,13 +81,17 @@
 <!--To direct where the feedback go to, add action='/the page you want the data to go'-->
 <div>
 <form>
-  <label for="fname">First name:</label> <br>
+  <label for="fname"><b>First name:</b></label> <br>
   <input type="text" id="fname" name="fname"  placeholder="Antony.." outofocus> <br>
-  <label for="Iname"> Last name:</label> <br>
+  <label for="Iname"><b>Last name:</b></label> <br>
   <input type="text" id="lastname" name="lastname" placeholder="Davis.."> <br>
-  <label for="Age"></label>Age:</label> <br>
+  <label for="Age"></label> <b>Age:</b></label> <br>
   <input type="number" id="Age" name="Age"> <br>
-  <label for="County">County:</label> 
+  <label for="Phone number"><b>Phone number:</b></label> <br>
+  <input type="tel" id="phone" name="phone" placeholder="+254....."> <br>
+  <label for="Email"><b>Email Adress:</b></label> <br>
+  <input type="email" id="email" name="Email" placeholder="...@.com"><br>
+  <label for="County"> <b>County:</b></label> 
      <select>
       <option value="Kirinyaga">Kirinyaga</option>
       <option value="Kiambu">Kiambu</option>
@@ -108,19 +112,14 @@
       <option value="Kisii">Kisii</option>
       <option value="Homabay">Homabay</option>
      </select> <br>
-  <label for="Phone number">Phone number</label> <br>
-  <input type="tel" id="phone" name="phone" placeholder="+254....."> <br>
-  <label for="Email">Email Adress:</label> <br>
-  <input type="email" id="email" name="Email" placeholder="...@.com"><br>
   </form>
-  
-  <label for="Gender">Gender:</label> <br>
+  <label for="Gender"> <b>Gender:</b></label> <br>
   <!--Radio button elements,choose between two oprions -->
   <label for="Male">Male</label>
   <input type="radio" id="option 1" name="Male" value="Male"> <br>
   <label for="Female">Female</label>
   <input type="radio" id="OPTION 2" name="Female" value="Female"><br>
-  <h12>Level of satisfaction:</h12> <br>
+  <h12> <b>Level of satisfaction:</b></h12> <br>
   <label for="Impression">Best</label> 
   <input type="checkbox"id="Best" name="Best"> <br>
   <label for="Impression">Better</label>
@@ -130,7 +129,7 @@
   <label for="Impression">Worst</label>
   <input type="checkbox"id="Worst" name="Worst"> <br>
 <!--Adding a drop down -->
-<label for="Various ways to reach out to us">Ways to reach out to us.</label>
+<label for="Various ways to reach out to us"> <b>Ways to reach out to us.</b></label>
 <select>
   <option value="Phonecall"> Phonecall</option>
   <option value="Email">Email</option>
