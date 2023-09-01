@@ -17,4 +17,10 @@ text-align: center;
  img{
     padding-left: 15%;
  }
+ footer{
+    text-align: center;
+    background-color: chartreuse;
+    font-style: italic;
+    font-size: 200%;
+  }
  

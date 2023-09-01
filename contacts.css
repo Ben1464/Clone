@@ -1,3 +1,9 @@
 body{
     background-color: aquamarine;
 }
+footer{
+    text-align: center;
+    background-color: chartreuse;
+    font-style: italic;
+    font-size: 200%;
+  }

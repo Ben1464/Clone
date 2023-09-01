@@ -22,4 +22,9 @@ background-color: rgb(174, 209, 155);
 opacity: 0.8;
 text-align: center;
  }
-  
+ footer{
+  text-align: center;
+  background-color: chartreuse;
+  font-style: italic;
+  font-size: 200%;
+}

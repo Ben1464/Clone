@@ -36,4 +36,9 @@ text-align: center;
   li{
     display: inline;
   }
- 
+  footer{
+    text-align: center;
+    background-color: chartreuse;
+    font-style: italic;
+    font-size: 200%;
+  }
