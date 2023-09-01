@@ -18,7 +18,7 @@ table {
     border: 1px solid black;
   }
   h1,h2{
-    color: chartreuse;
+    color:black;
     text-transform: uppercase;
     border-radius: 28px;
     text-align: center;
@@ -80,6 +80,8 @@ text-align: center;
 footer{
   text-align: center;
   background-color: chartreuse;
+  font-style: italic;
+  font-size: 200%;
 }
 input[type="reset"] {
   padding: 5px 10px;
@@ -126,4 +128,8 @@ a[href="https://www.greenlife.co.ke"] {
   address{
     text-align: center;
     display: flexbox;
+    background-color: chartreuse;
+  }
+  #termicides{
+    display:list-item;
   }
