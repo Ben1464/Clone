@@ -1,10 +1,10 @@
 body{
-    background-color: aquamarine;
+    background-color:darkgrey;
 }
 footer{
     text-align: center;
     background-color:none;
     font-style: italic;
     font-size: 200%;
-    color:orange
+    color:chartreuse
   }
