@@ -4,10 +4,6 @@ font-size: 100%;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 text-align: center;
 }
-img {
-    padding-inline-start: 40%;
-    margin-bottom: 20px;
-}
 /*Elelement selector*/
 table {
     width: 100%;
@@ -132,4 +128,10 @@ a[href="https://www.greenlife.co.ke"] {
   }
   #termicides{
     display:list-item;
+  }
+  #a{
+    padding-left: 30%;
+  }
+  #b{
+    padding-right:50px;
   }
