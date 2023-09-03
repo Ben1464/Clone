@@ -104,12 +104,15 @@ a[href="https://www.greenlife.co.ke"] {
    
   }
   li a {
+    display: inline;
     color: black;
+    text-align: center;
+    padding: 14px 80px;
     text-decoration: none;
     border-style: none;
     display: flex;
     justify-content: space-between;
-    margin-left: 30%;
+    margin-left: 30%
    
   }
   li{
