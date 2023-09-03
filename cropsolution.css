@@ -19,8 +19,9 @@ text-align: center;
  }
  footer{
     text-align: center;
-    background-color: chartreuse;
+    background-color:none;
     font-style: italic;
     font-size: 200%;
+    color: chartreuse;
   }
  

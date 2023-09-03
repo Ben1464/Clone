@@ -23,8 +23,10 @@ opacity: 0.8;
 text-align: center;
  }
  footer{
+  text-decoration: dotted;
   text-align: center;
-  background-color: chartreuse;
+  background color: none;
   font-style: italic;
   font-size: 200%;
+  color: chartreuse;
 }
