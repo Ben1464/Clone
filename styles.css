@@ -93,8 +93,4 @@ a[href="https://www.greenlife.co.ke"] {
     display: flexbox;
     background-color: chartreuse;
   }
-  .container1 {
-   display: flex; 
-   justify-content: space-between; /* Space between the logo and the nav-links */
-   align-items: center;     /* Vertically center-align items */
-  }
+ 
