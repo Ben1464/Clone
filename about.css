@@ -16,6 +16,7 @@ text-align: center;
 }
 img{
     padding-left: 10%;
+
 }
 footer{
     text-align: center;
@@ -23,3 +24,6 @@ footer{
     font-size: 200%;
     color: chartreuse;
   }
+  img:hover {
+    opacity: 0.5;
+}

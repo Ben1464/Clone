@@ -8,3 +8,11 @@ footer{
     font-size: 200%;
     color:chartreuse
   }
+  input[type="reset"] {
+    padding: 5px 10px;
+    font-size: 12px;
+  }
+  input[type="submit"]{
+    padding: 5px 10px;
+    font-size: 12px;
+  }
