@@ -19,7 +19,7 @@ img{
 }
 footer{
     text-align: center;
-    background-color: chartreuse;
     font-style: italic;
     font-size: 200%;
+    color: chartreuse;
   }
