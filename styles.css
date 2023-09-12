@@ -16,13 +16,13 @@ text-align: center;
     border-color:none;
     border-bottom-style: outset;
     border-bottom-width: 10px;
-    border-bottom-color: rgb(194, 3, 3);
+    border-bottom-color: rgb(226, 14, 14);
     border-left-width: 8px;
     border-left-color:greenyellow;
     border-top-style: none;
     border-right-width: 0px;
     padding: 5px;
-background-color: rgb(78, 202, 160);
+background-color: rgb(59, 180, 29);
 opacity: 1;
   }
   /*Group selector*/
@@ -61,7 +61,7 @@ a[href="https://www.greenlife.co.ke"] {
     display: inline;
     color: black;
     text-align: center;
-    padding: 14px 80px;
+    padding: 7px 40px;
     text-decoration: none;
     border-style: none;
     display: flex;
