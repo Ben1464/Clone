@@ -16,6 +16,7 @@ text-align: center;
 }
 img{
     padding-left: 10%;
+    object-fit: cover;
 
 }
 footer{

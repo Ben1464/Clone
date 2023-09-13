@@ -20,6 +20,7 @@ text-align: center;
  }
  img{
     padding-left: 15%;
+    object-fit: cover;
  }
  footer{
     text-align: center;
