@@ -5,12 +5,12 @@ h1,h2{
     border-color:red;
     border-top-style:none;
     border-bottom-style:outset;
-    border-left-color:greenyellow;
+    border-left-color:rgb(251, 255, 34);
     border-bottom-width: 8px;
     border-left-width: 6px;
     border-right-width: 0px;
     padding: 5px;
-background-color: rgb(174, 209, 155);
+background-color: rgb(109, 241, 37);
 opacity: 0.8;
 text-align: center;
  } 
@@ -31,7 +31,7 @@ text-align: center;
     border-bottom: 0px;
     border-top: 0px;
     border-style: inset;
-    background-color: aquamarine;
+    background-color: #f0f0f0;
   }
   li{
     display: inline;
