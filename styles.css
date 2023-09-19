@@ -31,7 +31,7 @@ opacity: 1;
  }
 footer{
   text-align: center;
-  background-color: chartreuse;
+  background-color: rgb(136, 224, 53);
   font-style: italic;
   font-size: 200%;
 }
@@ -68,7 +68,7 @@ a[href="https://www.greenlife.co.ke"] {
   address{
     text-align: center;
     display: flexbox;
-    background-color: chartreuse;
+    background: color #f8f8f8;;
   }
   /*hovering effect*/
   img:hover{
