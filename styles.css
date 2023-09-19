@@ -1,7 +1,7 @@
 /* id selector*/
 #para1 {
 font-size: 100%;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family:arial,sans-serif;
 text-align: center;
 }
 /*group selector*/
@@ -50,14 +50,6 @@ a[href="https://www.greenlife.co.ke"] {
   height: auto;
   
 }
-#headline{
-    list-style-type: inline;
-    margin: 0;
-    padding: 0;
-    font-size: 80%;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-   
-  }
   li a {
     display: inline;
     color: black;
@@ -81,5 +73,8 @@ a[href="https://www.greenlife.co.ke"] {
   /*hovering effect*/
   img:hover{
     opacity: 0.7;
+  }
+  nav{
+    background-color:#f2f2f2;
   }
  
